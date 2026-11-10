@@ -150,6 +150,10 @@ enums:
         meaning: nl:MeasurementKind.benodigdeTransportcapaciteit
       piekbelasting:
         meaning: nl:MeasurementKind.piekbelasting
+      geprognotiseerdeBelasting:
+        meaning: nl:MeasurementKind.geprognotiseerdeBelasting
+      historischeBelasting:
+        meaning: nl:MeasurementKind.historischeBelasting
 classes:
   UpdateInfo:
     description: Specific type of information that was updated for this
